@@ -5,7 +5,7 @@ I'm Engineering Manager of the _Developer Experience team_ in PayFit, a french p
 ---
 
 ## Perso
-- Music lover (listening and making __beginner-_)
+- Music lover (listening and making __beginner__)
 - Video Games (stories from the [Naughty Dog studio](https://www.naughtydog.com/))
 - Project with new technologies or frameworks
 
