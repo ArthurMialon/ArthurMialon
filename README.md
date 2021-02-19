@@ -1,16 +1,22 @@
-### Hi there 👋
+# Bonjour 👋
 
-<!--
-**ArthurMialon/ArthurMialon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Engineering Manager of the _Developer Experience team_ in PayFit, a french payroll company.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Perso
+- Music lover (listening and making __beginner-_)
+- Video Games (stories from the [Naughty Dog studio](https://www.naughtydog.com/))
+- Project with new technologies or frameworks
+
+## Pro
+
+### My mission is:
+_Level up the engineering teams effectiveness and provide the best experience possible._
+
+### Previously in PayFit
+- Engineering Manager - S.R.E
+- Engineering Manager - Jetlang Platform (build programming language)
+- Tech Lead
+- Senior Software Engineering
+- Sofware Engineer
