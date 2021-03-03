@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-I'm Engineering Manager of the _Developer Experience team_ in PayFit, a french payroll company.
+I'm **Engineering Manager of the Developer Experience team in PayFit**, a french payroll company.
 
 ---
 
