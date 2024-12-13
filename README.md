@@ -1,20 +1,10 @@
 # Bonjour 👋
 
-I'm **Engineering Manager of the Developer Experience team in PayFit**, a french payroll company.
+## OSS Projects
 
----
+- [Dot CLI](https://github.com/ArthurMialon/dot) - Manage your dotfiles with ease.
 
-## Perso
-- Music lover (listening and making __beginner__)
-- Video Games (from Rocket League to The Last of us)
-- Project with new technologies or frameworks
+## Pro
 
-## Pro Mission:
-_Level up the engineering teams effectiveness and provide the best experience possible._
-
-### Previously in PayFit
-- Engineering Manager - S.R.E
-- Engineering Manager - Jetlang Platform (build programming language)
-- Tech Lead
-- Senior Software Engineering
-- Sofware Engineer
+- 2025 - ... - Senior Engineer at [Nopillo][http://nopillo.fr/]
+- 2017-2024 - Form Enginneering Manager & Lead Engineer at [PayFit](https://payfit.com)
