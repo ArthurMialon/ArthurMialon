@@ -1,8 +1,9 @@
 # Bonjour 👋
 
-## OSS Projects
+## Projects
 
 - [Dot CLI](https://github.com/ArthurMialon/dot) - Manage your dotfiles with ease.
+- [SuperDuty](https://www.superduty.app/) - Simplify team rotation scheduling
 
 ## Pro
 
